@@ -1,0 +1,7 @@
+{
+  "name": "ESP32 GPS Tracker",
+  "description": "A high-performance real-time GPS tracking dashboard with Leaflet integration, optimized for ESP32 data streaming, featuring live route visualization and historical playback.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
